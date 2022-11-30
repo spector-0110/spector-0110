@@ -18,7 +18,7 @@
 ![c](https://img.shields.io/badge/-Python-black?style=flat-square&logo=c)
 ![cpp](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cpp)
 ![python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![html](https://img.shields.io/badge/-Python-black?style=flat-square&logo=html)
-![css](https://img.shields.io/badge/-Python-black?style=flat-square&logo=css)
+![html](https://img.shields.io/badge/-Python-black?style=flat-square&logo=HTML)
+![css](https://img.shields.io/badge/-Python-black?style=flat-square&logo=CSS)
 
 
