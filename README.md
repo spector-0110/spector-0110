@@ -15,10 +15,10 @@
 ## ⚡ Technologies
 
 ### Language :
-![c](https://img.shields.io/badge/-Python-black?style=flat-square&logo=c)
+![c](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![cpp](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cpp)
 ![python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![html](https://img.shields.io/badge/-Python-black?style=flat-square&logo=HTML)
-![css](https://img.shields.io/badge/-Python-black?style=flat-square&logo=CSS)
+![html](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML)
+![css](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS)
 
 
