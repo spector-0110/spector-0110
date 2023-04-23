@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vatsa</h1>
 <h3 align="center">A Flutter developer and Competetive coder from India</h3>
-<img align="right" alt="me" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmonophy.com%2Fgifs%2Ffire-computer-nerd-g79am6uuZJKSc&psig=AOvVaw2mgkTLXyd8TPV7JJEu5gtr&ust=1682329782255000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDBv_rcv_4CFQAAAAAdAAAAABAb](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmonophy.com%2Fgifs%2Ffire-computer-nerd-g79am6uuZJKSc&psig=AOvVaw2mgkTLXyd8TPV7JJEu5gtr&ust=1682329782255000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDBv_rcv_4CFQAAAAAdAAAAABAb)![image](https://user-images.githubusercontent.com/113085376/233833026-db3b1b19-89a3-4917-a4eb-14fde53bf976.png)
-">
+<img align="right" alt="me" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 
