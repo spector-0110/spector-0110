@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vatsa</h1>
 <h3 align="center">A Flutter developer and Competetive coder from India</h3>
-<img align="right" alt="me" width="400" src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fmartinvalda.com%2Fimg%2Fabout.gif&tbnid=OVo-Y4KYzi5KjM&vet=12ahUKEwi9z7fu27_-AhWZ-XMBHeCEBWsQMyhbegUIARDAAQ..i&imgrefurl=http%3A%2F%2Fmartinvalda.com%2F&docid=wg_B08dBHZfYCM&w=1398&h=1080&q=programmer%20animation%20gif&client=safari&ved=2ahUKEwi9z7fu27_-AhWZ-XMBHeCEBWsQMyhbegUIARDAAQ">
+<img align="right" alt="me" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spector-0110&label=Profile%20views&color=0e75b6&style=flat" alt="spector-0110" /> </p>
 
