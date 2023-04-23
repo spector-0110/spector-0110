@@ -2,7 +2,7 @@
 <h3 align="center">A Flutter developer and Competetive coder from India</h3>
 <img align="right" alt="me" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcloudsek.com%2Fblog%2Fwhy-programming-skills-are-essential-for-pen-testers&psig=AOvVaw2mgkTLXyd8TPV7JJEu5gtr&ust=1682329782255000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDBv_rcv_4CFQAAAAAdAAAAABAG" /> </p>
+<p align="left"> <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fcloudsek.com%2Fblog%2Fwhy-programming-skills-are-essential-for-pen-testers&psig=AOvVaw2mgkTLXyd8TPV7JJEu5gtr&ust=1682329782255000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDBv_rcv_4CFQAAAAAdAAAAABAG](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcloudsek.com%2Fblog%2Fwhy-programming-skills-are-essential-for-pen-testers&psig=AOvVaw2mgkTLXyd8TPV7JJEu5gtr&ust=1682329782255000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDBv_rcv_4CFQAAAAAdAAAAABAG)" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
