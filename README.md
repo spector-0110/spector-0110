@@ -29,6 +29,23 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vatsaadity7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vatsadity7" /></a></p><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=spector-0110&show_icons=true&locale=en&layout=compact" alt="spector-0110" /></p>
+# 📊GitHub Stats :
+<p align="center">
+<a href="https://github.com/RyanWalker277">
+  <br>
+  <br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=spector-0110&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br>
+  <br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spector-0110&layout=compact&langs_count=8&theme=algolia"/>
+  <br>
+  <br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=spector-0110&theme=tokyonight"/>	
+</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spector-0110&" alt="spector-0110" /></p>
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=spector-0110&show_icons=true&locale=en&layout=compact" alt="spector-0110" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spector-0110&" alt="spector-0110" /></p> -->
