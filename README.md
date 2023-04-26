@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vatsa</h1>
-<h3 align="center">A Flutter developer and Competetive coder from India</h3> 
+<h2 align="center">A Flutter developer and Competetive coder from India</h2>
+
+
 <img align="right" alt="we" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif">  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spector-0110&label=Profile%20views&color=0e75b6&style=flat" alt="spector-0110" /> </p>
@@ -17,6 +19,7 @@
 <a href="https://twitter.com/vatsaaditya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vatsaaditya1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vatsa aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vatsa aditya" height="30" width="40" /></a>
 <a href="https://instagram.com/thevatsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thevatsa" height="30" width="40" /></a>
+<h3 >Coding Profiles:</h3> 
 <a href="https://www.codechef.com/users/spector_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="spector_01" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/spector_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="spector_01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/spector-0110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spector-0110" height="30" width="40" /></a>
