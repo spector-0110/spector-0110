@@ -34,7 +34,7 @@
 
 # 📊GitHub Stats :
 <p align="center">
-<a href="https://github.com/RyanWalker277">
+<a href="https://github.com/spector-0110">
   <br>
   <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=spector-0110&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
