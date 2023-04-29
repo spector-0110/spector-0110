@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vatsaadityamishra19@gmail.com**
 
-- ⚡ Fun fact **I'm not funny**
+- ⚡**I'm not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
