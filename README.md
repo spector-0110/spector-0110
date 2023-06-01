@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vatsa</h1>
 <h2 align="center">A Flutter developer and Competetive coder from India</h2>
 
-
 <img align="right" alt="we" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif">  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spector-0110&label=Profile%20views&color=0e75b6&style=flat" alt="spector-0110" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Flutter , Competitive Coding**
 
 - 📫 How to reach me **vatsaadityamishra19@gmail.com**
 
-- ⚡**I'm not funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
