@@ -12,7 +12,7 @@
 - 📫 How to reach me: adityapachauri182003@gmail.com
 - ⚡ Fun fact: ...
  -->
-> **I am an undergraduate student pursuing a Bachelor's degree in Computer Science and Engineering. My passion lies in software development, where I thrive on continuous learning and innovation. I possess strong logical problem-solving skills, which enable me to craft creative and innovative solutions to real-world challenges. I find great fulfillment in contributing to Open Source projects and collaborating with technical communities and societies. Project-based learning experiences and teamwork are highly valued by me, as they provide opportunities for growth and impact. I am keenly interested in cloud computing and DevOps methodologies, recognizing their significance in modern software development practices. My ultimate goal is to create value and drive positive change through my work..**
+> **I am an undergraduate student pursuing a Bachelor's degree in Computer Science and Engineering. My passion lies in software development, where I thrive on continuous learning and innovation. I possess strong logical problem-solving skills, which enable me to craft creative and innovative solutions to real-world challenges. I find great fulfillment in contributing to Open Source projects and collaborating with technical communities and societies. Project-based learning experiences and teamwork are highly valued by me, as they provide opportunities for growth and impact. I am keenly interested in Java Development and Spring Framework, recognizing their significance in modern software development practices. My ultimate goal is to create value and drive positive change through my work..**
 ## Tech Stacks and Tools:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spector-0110&label=Profile%20views&color=0e75b6&style=flat" alt="spector-0110" /> </p>
@@ -38,8 +38,6 @@
 </a>
 </p>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsaaditya/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://spector-0110.github.io/PortfolioWebsite/)
 
 
 ### ✍️Just a random dev quote
@@ -47,5 +45,8 @@
 ---
 
 
-## 💰 Support
-<p><a href="https://www.buymeacoffee.com/vatsaadity7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vatsadity7" /></a></p> 
+##  Support
+<p><a href="https://www.buymeacoffee.com/vatsaadity7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32" width="190" alt="vatsadity7" /></a></p> 
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsaaditya/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://spector-0110.github.io/PortfolioWebsite/)
